@@ -14,7 +14,7 @@ Para mayor información de este proyecto, recomendamos visitar:
 * Conector estándar de 10 pines IDC-10 con distribución de conector iBlock
 * Conector jack tipo barril (para plug invertido) permite conectar sensor de voltaje (transformador)
 * Conector tipo bornera permite conectar sensor de voltaje (transformador)
-* Conector jack de 3.5 mm
+* Conector jack de 3.5 mm permite conectar sensor de corriente no invasivo
 * Circuitos de polarización para preparar la señal para la entrada analógica
 * Se puede llevar la señal del sensor de voltaje a los pines A0 y A2
 * Se puede llevar la señal del sensor de corriente a los pines A1 y A3
